@@ -1,5 +1,5 @@
 {
-  "name": "escrow-hardhat",
+  "name": "escrow-app",
   "version": "1.0.0",
   "description": "This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).",
   "main": "index.js",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alchemyplatform/escrow-hardhat.git"
+    "url": "git+https://github.com/ekomation/escrow-app.git"
   },
   "bugs": {
-    "url": "https://github.com/alchemyplatform/escrow-hardhat/issues"
+    "url": "https://github.com/ekomation/escrow-app/issues"
   },
-  "homepage": "https://github.com/alchemyplatform/escrow-hardhat#readme"
+  "homepage": "https://github.com/ekomation/escrow-app#readme"
 }
